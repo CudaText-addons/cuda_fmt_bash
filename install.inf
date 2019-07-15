@@ -1,0 +1,12 @@
+[info]
+title=Formatter for Bash script
+desc=Formats Bash scripts, using Beautysh library
+type=cudatext-plugin
+subdir=cuda_fmt_bash
+homepage=https://github.com/CudaText-addons/cuda_fmt_bash
+
+[fmt1]
+caption=Bash Beautify
+method=do_format
+lexers=Bash script
+config=cuda_fmt_bash.json

@@ -1,0 +1,9 @@
+{
+  "tab_str": " ",
+  "tab_size": 4,
+  "apply_function_style": null
+  // null: don't change
+  // 0: function keyword, open/closed parentheses, e.g.      function foo()
+  // 1: function keyword, NO open/closed parentheses, e.g.   function foo
+  // 2: NO function keyword, open/closed parentheses, e.g.   foo()
+}
